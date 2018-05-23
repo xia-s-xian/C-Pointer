@@ -7,6 +7,9 @@
 ## 参考书籍
 
 C和指针    作者：Kenneth A.Reek
+## 使用工具
+
+ Code::Blocks 16.01!
 
 ## 内容
 
