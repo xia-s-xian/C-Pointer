@@ -15,3 +15,13 @@ C和指针    作者：Kenneth A.Reek
 
 ### 结构和联合
 
+
+
+
+
+## 循环list
+
+circulation_list.c
+
+定义节点为5个，每个节点的的大小为60字节，能够循环加入存储list。
+
